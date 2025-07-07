@@ -1,0 +1,250 @@
+Train TPX_MV_York_5 arrived Leeds 4 minutes delayed at 09:26.
+Train NOR_York_Leeds_7 arrived Church Fenton 1 minutes delayed at 09:28.
+Train TRX_MV_Leeds_4 arrived Huddersfield 2 minutes delayed at 09:31.
+Train TPX_York_MV_5 arrived Huddersfield 10 minutes delayed at 09:32.
+Train TPX_MV_York_4 arrived York 4 minutes delayed at 09:42.
+Train NOR_York_Leeds_7 arrived York 1 minutes delayed at 09:46.
+Train TRX_MV_Leeds_4 arrived Stalybridge 2 minutes delayed at 09:58.
+Train NOR_York_Leeds_7 arrived Church Fenton 1 minutes delayed at 10:05.
+Train TPX_York_MV_5 arrived Manchester Victoria 10 minutes delayed at 10:09.
+Train TRX_MV_Leeds_4 arrived Manchester Victoria 3 minutes delayed at 10:10.
+Train TRX_Leeds_MV_4 arrived Leeds 4 minutes delayed at 10:11.
+Train NOR_York_Leeds_7 arrived Micklefield 1 minutes delayed at 10:14.
+Train NOR_York_Leeds_7 arrived East Garforth 1 minutes delayed at 10:18.
+Train NOR_York_Leeds_7 arrived Garforth 1 minutes delayed at 10:20.
+Train TRX_MV_Leeds_4 arrived Stalybridge 3 minutes delayed at 10:22.
+Train TPX_MV_York_4 arrived Leeds 11 minutes delayed at 10:25.
+Train NOR_York_Leeds_7 arrived Cross Gates 1 minutes delayed at 10:26.
+Train NOR_York_Leeds_7 arrived Leeds 1 minutes delayed at 10:34.
+Train TRX_Leeds_MV_4 arrived Huddersfield 4 minutes delayed at 10:37.
+Train NOR_York_Leeds_7 arrived Cross Gates 1 minutes delayed at 10:43.
+Train TPX_York_MV_5 arrived Huddersfield 10 minutes delayed at 10:46.
+Train TRX_MV_Leeds_4 arrived Huddersfield 3 minutes delayed at 10:48.
+Train NOR_York_Leeds_7 arrived Garforth 1 minutes delayed at 10:49.
+Train NOR_York_Leeds_7 arrived East Garforth 1 minutes delayed at 10:51.
+Train TPX_MV_York_4 arrived Huddersfield 12 minutes delayed at 10:52.
+Train NOR_York_Leeds_7 arrived Micklefield 1 minutes delayed at 10:55.
+Train TPX_York_MV_5 arrived Dewsbury 10 minutes delayed at 10:59.
+Train TRX_Leeds_MV_4 arrived Stalybridge 4 minutes delayed at 11:04.
+Train NOR_York_Leeds_7 arrived Church Fenton 1 minutes delayed at 11:04.
+Train TPX_York_MV_5 arrived Leeds 10 minutes delayed at 11:13.
+Train TPX_York_MV_6 arrived Dewsbury 4 minutes delayed at 11:14.
+Train TRX_MV_Leeds_4 arrived Leeds 3 minutes delayed at 11:14.
+Train TRX_Leeds_MV_4 arrived Manchester Victoria 4 minutes delayed at 11:15.
+Train NOR_Leeds_York_5 arrived York 6 minutes delayed at 11:25.
+Train NOR_York_Leeds_7 arrived York 4 minutes delayed at 11:25.
+Train TPX_MV_York_6 arrived Huddersfield 3 minutes delayed at 11:26.
+Train TRX_Leeds_MV_4 arrived Stalybridge 4 minutes delayed at 11:27.
+Train TPX_Leeds_Huddersfield_9 arrived Cottingley 3 minutes delayed at 11:27.
+Train TPX_MV_York_4 arrived Manchester Victoria 12 minutes delayed at 11:29.
+Train TPX_Leeds_Huddersfield_9 arrived Morley 3 minutes delayed at 11:33.
+Train TPX_Huddersfield_Leeds_9 arrived Deighton 9 minutes delayed at 11:33.
+Train TPX_York_MV_6 arrived Leeds 10 minutes delayed at 11:34.
+Train TPX_Leeds_Huddersfield_9 arrived Batley 3 minutes delayed at 11:39.
+Train TRX_MV_Leeds_4 arrived Huddersfield 3 minutes delayed at 11:40.
+Train TPX_Huddersfield_Leeds_9 arrived Mirfield 9 minutes delayed at 11:40.
+Train TPX_Leeds_Huddersfield_9 arrived Dewsbury 3 minutes delayed at 11:43.
+Train TPX_Huddersfield_Leeds_9 arrived Ravensthorpe 9 minutes delayed at 11:44.
+Train NOR_York_Leeds_7 arrived Church Fenton 5 minutes delayed at 11:45.
+Train TPX_York_MV_6 arrived Garforth 10 minutes delayed at 11:46.
+Train TPX_Leeds_Huddersfield_9 arrived Ravensthorpe 3 minutes delayed at 11:47.
+Train NOR_Leeds_York_5 arrived Micklefield 6 minutes delayed at 11:48.
+Train TPX_Huddersfield_Leeds_9 arrived Dewsbury 9 minutes delayed at 11:48.
+Train TPX_York_MV_5 arrived York 10 minutes delayed at 11:49.
+Train NOR_Leeds_York_5 arrived East Garforth 6 minutes delayed at 11:51.
+Train TPX_Leeds_Huddersfield_9 arrived Mirfield 3 minutes delayed at 11:51.
+Train TPX_Huddersfield_Leeds_9 arrived Batley 9 minutes delayed at 11:52.
+Train NOR_Leeds_York_5 arrived Garforth 6 minutes delayed at 11:53.
+Train TRX_Leeds_MV_4 arrived Huddersfield 4 minutes delayed at 11:53.
+Train NOR_York_Leeds_7 arrived Micklefield 5 minutes delayed at 11:54.
+Train TPX_Leeds_Huddersfield_9 arrived Deighton 3 minutes delayed at 11:57.
+Train NOR_York_Leeds_7 arrived East Garforth 5 minutes delayed at 11:58.
+Train TPX_Huddersfield_Leeds_9 arrived Morley 9 minutes delayed at 11:58.
+Train NOR_York_Leeds_7 arrived Garforth 5 minutes delayed at 12:00.
+Train TPX_York_MV_4 arrived Leeds 6 minutes delayed at 12:01.
+Train TPX_Leeds_Huddersfield_9 arrived Huddersfield 3 minutes delayed at 12:01.
+Train TPX_MV_York_6 arrived Manchester Victoria 2 minutes delayed at 12:03.
+Train TPX_Huddersfield_Leeds_9 arrived Cottingley 9 minutes delayed at 12:03.
+Train NOR_Leeds_York_7 arrived Leeds 3 minutes delayed at 12:04.
+Train NOR_Leeds_York_5 arrived Leeds 7 minutes delayed at 12:05.
+Train TPX_MV_York_4 arrived Huddersfield 13 minutes delayed at 12:06.
+Train NOR_York_Leeds_7 arrived Cross Gates 5 minutes delayed at 12:06.
+Train TPX_Leeds_Huddersfield_9 arrived Deighton 3 minutes delayed at 12:06.
+Train TRX_MV_Leeds_4 arrived Stalybridge 3 minutes delayed at 12:07.
+Train TPX_Huddersfield_Leeds_9 arrived Leeds 9 minutes delayed at 12:08.
+Train TPX_York_MV_6 arrived York 10 minutes delayed at 12:11.
+Train TPX_Leeds_Huddersfield_9 arrived Mirfield 3 minutes delayed at 12:12.
+Train NOR_York_Leeds_7 arrived Leeds 5 minutes delayed at 12:14.
+Train NOR_Leeds_York_7 arrived Cross Gates 4 minutes delayed at 12:14.
+Train TPX_Huddersfield_Leeds_9 arrived Cottingley 9 minutes delayed at 12:14.
+Train TPX_Leeds_Huddersfield_9 arrived Ravensthorpe 3 minutes delayed at 12:16.
+Train NOR_Leeds_York_5 arrived Garforth 8 minutes delayed at 12:18.
+Train TRX_MV_Leeds_4 arrived Manchester Victoria 3 minutes delayed at 12:18.
+Train TRX_Leeds_MV_4 arrived Leeds 4 minutes delayed at 12:19.
+Train TPX_Huddersfield_Leeds_9 arrived Morley 9 minutes delayed at 12:19.
+Train NOR_Leeds_York_5 arrived East Garforth 8 minutes delayed at 12:20.
+Train NOR_Leeds_York_7 arrived Garforth 4 minutes delayed at 12:20.
+Train TPX_Leeds_Huddersfield_9 arrived Dewsbury 3 minutes delayed at 12:20.
+Train TPX_MV_York_5 arrived Huddersfield 1 minutes delayed at 12:21.
+Train NOR_Leeds_York_7 arrived East Garforth 4 minutes delayed at 12:22.
+Train NOR_Leeds_York_5 arrived Micklefield 8 minutes delayed at 12:23.
+Train NOR_York_Leeds_7 arrived Cross Gates 5 minutes delayed at 12:23.
+Train TPX_Leeds_Huddersfield_9 arrived Batley 3 minutes delayed at 12:24.
+Train TPX_York_MV_5 arrived Leeds 11 minutes delayed at 12:25.
+Train TPX_Huddersfield_Leeds_9 arrived Batley 9 minutes delayed at 12:25.
+Train NOR_Leeds_York_7 arrived Micklefield 4 minutes delayed at 12:26.
+Train TPX_York_MV_4 arrived Huddersfield 6 minutes delayed at 12:27.
+Train NOR_York_Leeds_7 arrived Garforth 5 minutes delayed at 12:29.
+Train TPX_Huddersfield_Leeds_9 arrived Dewsbury 9 minutes delayed at 12:29.
+Train TRX_MV_Leeds_4 arrived Stalybridge 3 minutes delayed at 12:30.
+Train TPX_Leeds_Huddersfield_9 arrived Morley 3 minutes delayed at 12:30.
+Train NOR_York_Leeds_7 arrived East Garforth 5 minutes delayed at 12:31.
+Train TPX_Huddersfield_Leeds_9 arrived Ravensthorpe 9 minutes delayed at 12:33.
+Train TPX_MV_York_5 arrived Dewsbury 1 minutes delayed at 12:34.
+Train NOR_York_Leeds_7 arrived Micklefield 5 minutes delayed at 12:35.
+Train NOR_Leeds_York_7 arrived Church Fenton 4 minutes delayed at 12:35.
+Train TPX_Leeds_Huddersfield_9 arrived Cottingley 3 minutes delayed at 12:35.
+Train TPX_York_MV_6 arrived Garforth 11 minutes delayed at 12:37.
+Train TPX_Huddersfield_Leeds_9 arrived Mirfield 9 minutes delayed at 12:37.
+Train TPX_York_MV_5 arrived Dewsbury 11 minutes delayed at 12:40.
+Train TPX_MV_York_6 arrived Huddersfield 3 minutes delayed at 12:40.
+Train TPX_Leeds_Huddersfield_9 arrived Leeds 3 minutes delayed at 12:40.
+Train TPX_MV_York_4 arrived Leeds 22 minutes delayed at 12:41.
+Train NOR_York_Leeds_7 arrived Church Fenton 5 minutes delayed at 12:44.
+Train TPX_Huddersfield_Leeds_9 arrived Deighton 10 minutes delayed at 12:44.
+Train NOR_Leeds_York_5 arrived York 8 minutes delayed at 12:45.
+Train TPX_Leeds_Huddersfield_9 arrived Cottingley 3 minutes delayed at 12:46.
+Train TRX_Leeds_MV_4 arrived Huddersfield 6 minutes delayed at 12:47.
+Train TPX_MV_York_5 arrived Leeds 1 minutes delayed at 12:48.
+Train TPX_York_MV_6 arrived Leeds 11 minutes delayed at 12:48.
+Train TPX_Huddersfield_Leeds_9 arrived Huddersfield 10 minutes delayed at 12:48.
+Train TPX_Leeds_Huddersfield_9 arrived Morley 3 minutes delayed at 12:51.
+Train TPX_York_MV_5 arrived Huddersfield 11 minutes delayed at 12:52.
+Train TPX_MV_York_6 arrived Dewsbury 3 minutes delayed at 12:53.
+Train NOR_Leeds_York_7 arrived York 4 minutes delayed at 12:53.
+Train TPX_Huddersfield_Leeds_9 arrived Deighton 10 minutes delayed at 12:53.
+Train TRX_MV_Leeds_4 arrived Huddersfield 3 minutes delayed at 12:56.
+Train TPX_Leeds_Huddersfield_9 arrived Batley 3 minutes delayed at 12:57.
+Train TPX_Huddersfield_Leeds_9 arrived Mirfield 10 minutes delayed at 12:59.
+Train TPX_Leeds_Huddersfield_9 arrived Dewsbury 3 minutes delayed at 13:01.
+Train NOR_York_Leeds_7 arrived York 5 minutes delayed at 13:02.
+Train TPX_York_MV_6 arrived Dewsbury 11 minutes delayed at 13:03.
+Train TPX_Huddersfield_Leeds_9 arrived Ravensthorpe 10 minutes delayed at 13:03.
+Train TPX_York_MV_4 arrived Manchester Victoria 6 minutes delayed at 13:04.
+Train TPX_Leeds_Huddersfield_9 arrived Ravensthorpe 3 minutes delayed at 13:05.
+Train TPX_MV_York_6 arrived Leeds 3 minutes delayed at 13:07.
+Train TPX_Huddersfield_Leeds_9 arrived Dewsbury 10 minutes delayed at 13:07.
+Train NOR_Leeds_York_5 arrived Micklefield 8 minutes delayed at 13:08.
+Train TPX_Leeds_Huddersfield_9 arrived Mirfield 3 minutes delayed at 13:09.
+Train NOR_Leeds_York_5 arrived East Garforth 8 minutes delayed at 13:11.
+Train NOR_Leeds_York_7 arrived Church Fenton 4 minutes delayed at 13:12.
+Train TPX_Huddersfield_Leeds_9 arrived Batley 11 minutes delayed at 13:12.
+Train NOR_Leeds_York_5 arrived Garforth 8 minutes delayed at 13:13.
+Train TRX_Leeds_MV_4 arrived Stalybridge 6 minutes delayed at 13:14.
+Train TPX_Leeds_Huddersfield_9 arrived Deighton 3 minutes delayed at 13:15.
+Train TPX_MV_York_4 arrived York 22 minutes delayed at 13:17.
+Train TPX_Huddersfield_Leeds_9 arrived Morley 11 minutes delayed at 13:18.
+Train TPX_MV_York_6 arrived Garforth 3 minutes delayed at 13:19.
+Train TPX_Leeds_Huddersfield_9 arrived Huddersfield 3 minutes delayed at 13:19.
+Train TPX_York_MV_6 arrived Huddersfield 16 minutes delayed at 13:20.
+Train NOR_York_Leeds_7 arrived Church Fenton 5 minutes delayed at 13:21.
+Train NOR_Leeds_York_7 arrived Micklefield 4 minutes delayed at 13:21.
+Train TRX_MV_Leeds_4 arrived Leeds 4 minutes delayed at 13:23.
+Train TPX_Huddersfield_Leeds_9 arrived Cottingley 11 minutes delayed at 13:23.
+Train NOR_Leeds_York_5 arrived Leeds 8 minutes delayed at 13:24.
+Train TPX_Leeds_Huddersfield_9 arrived Deighton 3 minutes delayed at 13:24.
+Train TRX_Leeds_MV_4 arrived Manchester Victoria 6 minutes delayed at 13:25.
+Train NOR_Leeds_York_7 arrived East Garforth 4 minutes delayed at 13:25.
+Train NOR_Leeds_York_7 arrived Garforth 4 minutes delayed at 13:27.
+Train TPX_Huddersfield_Leeds_9 arrived Leeds 11 minutes delayed at 13:28.
+Train TPX_York_MV_5 arrived Manchester Victoria 11 minutes delayed at 13:29.
+Train NOR_York_Leeds_7 arrived Micklefield 5 minutes delayed at 13:30.
+Train TPX_Leeds_Huddersfield_9 arrived Mirfield 3 minutes delayed at 13:30.
+Train NOR_Leeds_York_7 arrived Cross Gates 4 minutes delayed at 13:33.
+Train NOR_York_Leeds_7 arrived East Garforth 5 minutes delayed at 13:34.
+Train TPX_Leeds_Huddersfield_9 arrived Ravensthorpe 3 minutes delayed at 13:34.
+Train TPX_Huddersfield_Leeds_9 arrived Cottingley 11 minutes delayed at 13:34.
+Train NOR_Leeds_York_5 arrived Garforth 8 minutes delayed at 13:36.
+Train NOR_York_Leeds_7 arrived Garforth 5 minutes delayed at 13:36.
+Train TRX_Leeds_MV_4 arrived Stalybridge 6 minutes delayed at 13:37.
+Train NOR_Leeds_York_5 arrived East Garforth 8 minutes delayed at 13:38.
+Train TPX_Leeds_Huddersfield_9 arrived Dewsbury 3 minutes delayed at 13:38.
+Train TPX_Huddersfield_Leeds_9 arrived Morley 11 minutes delayed at 13:39.
+Train TPX_York_MV_4 arrived Huddersfield 6 minutes delayed at 13:41.
+Train NOR_Leeds_York_5 arrived Micklefield 8 minutes delayed at 13:41.
+Train NOR_Leeds_York_7 has completed its journey at 13:41 (Delayed by 4 minutes)
+Train NOR_York_Leeds_7 arrived Cross Gates 5 minutes delayed at 13:42.
+Train TPX_Leeds_Huddersfield_9 arrived Batley 3 minutes delayed at 13:42.
+Train TPX_MV_York_6 arrived York 3 minutes delayed at 13:44.
+Train TPX_Huddersfield_Leeds_9 arrived Batley 11 minutes delayed at 13:45.
+Train TPX_Leeds_Huddersfield_9 arrived Morley 3 minutes delayed at 13:48.
+Train TRX_MV_Leeds_4 arrived Huddersfield 4 minutes delayed at 13:49.
+Train TPX_Huddersfield_Leeds_9 arrived Dewsbury 11 minutes delayed at 13:49.
+Train NOR_York_Leeds_7 arrived Leeds 5 minutes delayed at 13:50.
+Train TPX_Leeds_Huddersfield_9 arrived Cottingley 3 minutes delayed at 13:53.
+Train TPX_Huddersfield_Leeds_9 arrived Ravensthorpe 11 minutes delayed at 13:53.
+Train TPX_MV_York_4 arrived Leeds 24 minutes delayed at 13:55.
+Train TPX_York_MV_6 arrived Manchester Victoria 16 minutes delayed at 13:57.
+Train TPX_Huddersfield_Leeds_9 arrived Mirfield 11 minutes delayed at 13:57.
+Train TPX_Leeds_Huddersfield_9 arrived Leeds 3 minutes delayed at 13:58.
+Train NOR_York_Leeds_7 arrived Cross Gates 5 minutes delayed at 13:59.
+Train NOR_Leeds_York_5 has completed its journey at 14:03 (Delayed by 8 minutes)
+Train TRX_Leeds_MV_4 arrived Huddersfield 6 minutes delayed at 14:03.
+Train TPX_Huddersfield_Leeds_9 arrived Deighton 11 minutes delayed at 14:03.
+Train TPX_Leeds_Huddersfield_9 arrived Cottingley 3 minutes delayed at 14:04.
+Train NOR_York_Leeds_7 arrived Garforth 5 minutes delayed at 14:05.
+Train TPX_York_MV_5 arrived Huddersfield 11 minutes delayed at 14:06.
+Train TPX_York_MV_4 arrived Leeds 6 minutes delayed at 14:07.
+Train NOR_York_Leeds_7 arrived East Garforth 5 minutes delayed at 14:07.
+Train TPX_Huddersfield_Leeds_9 arrived Huddersfield 11 minutes delayed at 14:07.
+Train TPX_Leeds_Huddersfield_9 arrived Morley 3 minutes delayed at 14:09.
+Train TPX_MV_York_6 arrived Garforth 3 minutes delayed at 14:10.
+Train NOR_York_Leeds_7 arrived Micklefield 5 minutes delayed at 14:11.
+Train TPX_Huddersfield_Leeds_9 arrived Deighton 11 minutes delayed at 14:12.
+Train NOR_York_Leeds_5 arrived Micklefield 1 minutes delayed at 14:13.
+Train TPX_Leeds_Huddersfield_9 arrived Batley 3 minutes delayed at 14:15.
+Train TRX_MV_Leeds_4 arrived Stalybridge 4 minutes delayed at 14:16.
+Train TPX_Huddersfield_Leeds_9 arrived Mirfield 11 minutes delayed at 14:18.
+Train TPX_York_MV_5 arrived Dewsbury 11 minutes delayed at 14:19.
+Train NOR_York_Leeds_7 arrived Church Fenton 5 minutes delayed at 14:20.
+Train TPX_MV_York_4 arrived Huddersfield 24 minutes delayed at 14:21.
+Train TPX_MV_York_6 arrived Leeds 3 minutes delayed at 14:21.
+Train TPX_Leeds_Huddersfield_9 arrived Dewsbury 5 minutes delayed at 14:21.
+Train TPX_Huddersfield_Leeds_9 arrived Ravensthorpe 11 minutes delayed at 14:22.
+Train TPX_Leeds_Huddersfield_9 arrived Ravensthorpe 5 minutes delayed at 14:25.
+Train TPX_Huddersfield_Leeds_9 arrived Dewsbury 11 minutes delayed at 14:26.
+Train TRX_MV_Leeds_4 has completed its journey at 14:27 (Delayed by 4 minutes)
+Train TRX_Leeds_MV_4 has completed its journey at 14:29 (Delayed by 6 minutes)
+Train TPX_Leeds_Huddersfield_9 arrived Mirfield 5 minutes delayed at 14:29.
+Train TPX_Huddersfield_Leeds_9 arrived Batley 11 minutes delayed at 14:30.
+Train TPX_York_MV_5 arrived Leeds 11 minutes delayed at 14:33.
+Train TPX_York_MV_6 arrived Huddersfield 16 minutes delayed at 14:34.
+Train NOR_York_Leeds_5 has completed its journey at 14:35 (Delayed by 1 minutes)
+Train TPX_Leeds_Huddersfield_9 arrived Deighton 5 minutes delayed at 14:35.
+Train TPX_MV_York_6 arrived Dewsbury 3 minutes delayed at 14:36.
+Train TPX_Huddersfield_Leeds_9 arrived Morley 11 minutes delayed at 14:36.
+Train NOR_York_Leeds_7 arrived York 6 minutes delayed at 14:39.
+Train TPX_Leeds_Huddersfield_9 has completed its journey at 14:39 (Delayed by 5 minutes)
+Train TPX_Huddersfield_Leeds_9 arrived Cottingley 11 minutes delayed at 14:41.
+Train TPX_York_MV_4 has completed its journey at 14:43 (Delayed by 3 minutes)
+Train TPX_Huddersfield_Leeds_9 has completed its journey at 14:46 (Delayed by 11 minutes)
+Train TPX_York_MV_6 arrived Dewsbury 16 minutes delayed at 14:47.
+Train TPX_MV_York_6 arrived Huddersfield 4 minutes delayed at 14:48.
+Train TPX_MV_York_4 has completed its journey at 14:58 (Delayed by 24 minutes)
+Train NOR_York_Leeds_7 arrived Church Fenton 6 minutes delayed at 14:58.
+Train TPX_York_MV_6 arrived Leeds 16 minutes delayed at 15:01.
+Train NOR_York_Leeds_7 arrived Micklefield 6 minutes delayed at 15:07.
+Train TPX_York_MV_5 has completed its journey at 15:09 (Delayed by 11 minutes)
+Train NOR_York_Leeds_7 arrived East Garforth 6 minutes delayed at 15:11.
+Train TPX_York_MV_6 arrived Garforth 16 minutes delayed at 15:13.
+Train NOR_York_Leeds_7 arrived Garforth 6 minutes delayed at 15:13.
+Train NOR_York_Leeds_7 arrived Cross Gates 6 minutes delayed at 15:19.
+Train TPX_MV_York_6 has completed its journey at 15:25 (Delayed by 3 minutes)
+Train NOR_York_Leeds_7 arrived Leeds 6 minutes delayed at 15:27.
+Train NOR_York_Leeds_7 arrived Cross Gates 6 minutes delayed at 15:36.
+Train TPX_York_MV_6 has completed its journey at 15:38 (Delayed by 16 minutes)
+Train NOR_York_Leeds_7 arrived Garforth 6 minutes delayed at 15:42.
+Train NOR_York_Leeds_7 arrived East Garforth 6 minutes delayed at 15:44.
+Train NOR_York_Leeds_7 arrived Micklefield 6 minutes delayed at 15:48.
+Train NOR_York_Leeds_7 arrived Church Fenton 6 minutes delayed at 15:57.
+Train NOR_York_Leeds_7 has completed its journey at 16:15 (Delayed by 6 minutes)
