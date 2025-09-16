@@ -1,1 +1,1 @@
-This repository contains
+This repository contains all files related to my optimisation model of the Transpennine Route for my university dissetation. More information on the project can be found in the introduction in https://github.com/dk1044/TRUOptimisationModel/blob/main/OptimisationOfTrainSchedulingToReduceDelayPropagation
